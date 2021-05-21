@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf7587eace85dbd4caf3a539dcd5c8cf, type: 3}
+  m_Name: SubjectUpgrade
+  m_EditorClassIdentifier: 
+  figurineDatas:
+  - {fileID: 11400000, guid: 34170f238fb1d47459b3816050f753a1, type: 2}
+  - {fileID: 11400000, guid: 781672475752c1340b1bf02958520577, type: 2}
+  - {fileID: 11400000, guid: f714cd0b7423a164689b110653e30180, type: 2}
+  - {fileID: 11400000, guid: be1626b0345b6b04790878de1c29fe98, type: 2}
+  - {fileID: 11400000, guid: 8b05b9dac0b1a0144bcb6a7839a11b2b, type: 2}
+  - {fileID: 11400000, guid: 6616664adfb83374fa8dbab65d029b12, type: 2}
+  prefab: {fileID: 7025133699179193872, guid: 6f85afc689eafa64dbfd4a88fcb24599, type: 3}

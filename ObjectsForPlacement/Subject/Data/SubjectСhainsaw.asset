@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9c7955bbbdf70942954013ccd3057ac, type: 3}
+  m_Name: "Subject\u0421hainsaw"
+  m_EditorClassIdentifier: 
+  bodySprite: {fileID: -8508168679168307067, guid: d2959b5179aa4ad428293299a9af8578,
+    type: 3}
+  chance: 50
+  typeCompleted: 0
+  interactions:
+  - {fileID: 11400000, guid: 4ca8fb0050b9cb94a8e528c87c40ce12, type: 2}
+  - {fileID: 11400000, guid: 4568c82aa07d699459ec35fd319925cf, type: 2}

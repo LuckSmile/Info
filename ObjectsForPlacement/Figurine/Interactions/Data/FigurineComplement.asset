@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b11312c118652547874e64258c92a5c, type: 3}
+  m_Name: FigurineComplement
+  m_EditorClassIdentifier: 
+  activateOnDrop: 1
+  prefab: {fileID: 7025133699179193872, guid: 6f85afc689eafa64dbfd4a88fcb24599, type: 3}
+  conditionForExecutions:
+  - {fileID: 11400000, guid: b81f76cf768e6a647b51d68d9286a269, type: 2}
+  notCompleted: {fileID: 11400000, guid: e8f4e1bc5883cb74388ca40f8f70033e, type: 2}

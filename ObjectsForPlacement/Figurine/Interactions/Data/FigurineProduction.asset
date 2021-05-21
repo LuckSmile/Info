@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17f57cd14b95d1f40a565dd27e9a2ae8, type: 3}
+  m_Name: FigurineProduction
+  m_EditorClassIdentifier: 
+  activateOnDrop: 0
+  currencies:
+  - selected: {fileID: 11400000, guid: 54778daa2798f6047ad3c2cffa320729, type: 2}
+    subtype: {fileID: 11400000, guid: 87716e9719f93a7408fa9a9e1d23b60d, type: 2}

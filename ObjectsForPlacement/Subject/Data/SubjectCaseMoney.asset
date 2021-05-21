@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9c7955bbbdf70942954013ccd3057ac, type: 3}
+  m_Name: SubjectCaseMoney
+  m_EditorClassIdentifier: 
+  bodySprite: {fileID: -1254864389909284621, guid: d2959b5179aa4ad428293299a9af8578,
+    type: 3}
+  chance: 50
+  typeCompleted: 1
+  interactions:
+  - {fileID: 11400000, guid: 5ea12434ec63f1d40b64c07aea774cf9, type: 2}
+  - {fileID: 11400000, guid: 0ab851b5c969860499a9534753634b7f, type: 2}

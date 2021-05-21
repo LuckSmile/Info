@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77dccaf5cd9c9ec4fb3fd1be9f65cd3a, type: 3}
+  m_Name: FigurineRossGuardsman
+  m_EditorClassIdentifier: 
+  bodySprite: {fileID: -2840218891777783551, guid: 737519cf1c8db7e40b8cd4e6373048fc,
+    type: 3}
+  chance: 50
+  significance: 0
+  additionalCurrencies: []
+  currencies: []
+  child: {fileID: 11400000, guid: bc6d5bb1fd521ab42be2cdeed6f91398, type: 2}
+  interactions:
+  - {fileID: 11400000, guid: 26c5150e1fef79847a492c19766c7b9f, type: 2}
